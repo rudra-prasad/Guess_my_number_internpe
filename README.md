@@ -15,8 +15,8 @@ This Repo is about number guess game built using  JavaScript. The game generates
 - Javascript used add interactivity and logic behind the game.
 
 ## Links
-- GitHub: [Guess_my_number_internpe]()
-- Live Site: [Guess_my_number_internpe]()
+- GitHub: [Guess_my_number_internpe](https://github.com/rudra-prasad/Guess_my_number_internpe.git)
+- Live Site: [Guess_my_number_internpe](https://github.com/rudra-prasad/Guess_my_number_internpe.git)
 
 ## What I learn from this project
 Creating this repo teach me key programming concepts, such as variables, conditional statements, loops, functions, DOM manipulation, and event handling.
